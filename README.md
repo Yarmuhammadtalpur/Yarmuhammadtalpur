@@ -10,30 +10,32 @@
 
 ### 🛠️ Languages and Tools
 
-<img src="./imgs/skills/AWS.png" alt="AWS Cloud Logo" height="30" style="padding-right: 8px">
-<img src="./imgs/skills/docker.png" alt="Docker Logo" height="30" style="padding-right: 8px">
-<img src="./imgs/skills/chakra ui.png" alt="Chackra UI Logo" height="30" style="padding-right: 8px">
-<img src="./imgs/skills/mui.png" alt=" Logo" height="30" style="padding-right: 8px">
-<img src="./imgs/skills/bootstrap.png" alt="Bootstrap Logo" height="30" style="padding-right: 8px">
-<img src="./imgs/skills/css-3.png" alt="CSS Logo" height="30" style="padding-right: 8px">
-<img src="./imgs/skills/html.png" alt="HTML Logo" height="30" style="padding-right: 8px">
-<img src="./imgs/skills/firebase.png" alt=" Logo" height="30" style="padding-right: 8px">
-<img src="./imgs/skills/graphql.png" alt=" Logo" height="30" style="padding-right: 8px">
-<img src="./imgs/skills/js.png" alt=" Logo" height="30" style="padding-right: 8px">
-<img src="./imgs/skills/typescript.png" alt=" Logo" height="30" style="padding-right: 8px">
-<img src="./imgs/skills/mongodb.png" alt=" Logo" height="30" style="padding-right: 8px">
-<img src="./imgs/skills/mysql.png" alt=" Logo" height="30" style="padding-right: 8px">
-<img src="./imgs/skills/Nest.js.png" alt=" Logo" height="30" style="padding-right: 8px">
-<img src="./imgs/skills/next.png" alt=" Logo" height="30" style="padding-right: 8px">
-<img src="./imgs/skills/nodejs.png" alt=" Logo" height="30" style="padding-right: 8px">
-<img src="./imgs/skills/postgresql.png" alt=" Logo" height="30" style="padding-right: 8px">
-<img src="./imgs/skills/react.png" alt=" Logo" height="30" style="padding-right: 8px">
-<img src="./imgs/skills/redux.png" alt=" Logo" height="30" style="padding-right: 8px">
-<img src="./imgs/skills/sass.png" alt=" Logo" height="30" style="padding-right: 8px">
-<img src="./imgs/skills/social.png" alt=" Logo" height="30" style="padding-right: 8px">
-<img src="./imgs/skills/stripe.png" alt=" Logo" height="30" style="padding-right: 8px">
-<img src="./imgs/skills/tailwind-css.png" alt=" Logo" height="30" style="padding-right: 8px">
+<img align="left" src="./imgs/skills/AWS.png" alt="AWS Cloud Logo" height="30" style="padding-right: 8px">
+<img align="left" src="./imgs/skills/docker.png" alt="Docker Logo" height="30" style="padding-right: 8px">
+<img align="left" src="./imgs/skills/chakra ui.png" alt="Chackra UI Logo" height="30" style="padding-right: 8px">
+<img align="left" src="./imgs/skills/mui.png" alt=" Logo" height="30" style="padding-right: 8px">
+<img align="left" src="./imgs/skills/bootstrap.png" alt="Bootstrap Logo" height="30" style="padding-right: 8px">
+<img align="left" src="./imgs/skills/css-3.png" alt="CSS Logo" height="30" style="padding-right: 8px">
+<img align="left" src="./imgs/skills/html.png" alt="HTML Logo" height="30" style="padding-right: 8px">
+<img align="left" src="./imgs/skills/firebase.png" alt=" Logo" height="30" style="padding-right: 8px">
+<img align="left" src="./imgs/skills/graphql.png" alt=" Logo" height="30" style="padding-right: 8px">
+<img align="left" src="./imgs/skills/js.png" alt=" Logo" height="30" style="padding-right: 8px">
+<img align="left" src="./imgs/skills/typescript.png" alt=" Logo" height="30" style="padding-right: 8px">
+<img align="left" src="./imgs/skills/mongodb.png" alt=" Logo" height="30" style="padding-right: 8px">
+<img align="left" src="./imgs/skills/mysql.png" alt=" Logo" height="30" style="padding-right: 8px">
+<img align="left" src="./imgs/skills/Nest.js.png" alt=" Logo" height="30" style="padding-right: 8px">
+<img align="left" src="./imgs/skills/next.png" alt=" Logo" height="30" style="padding-right: 8px">
+<img align="left" src="./imgs/skills/nodejs.png" alt=" Logo" height="30" style="padding-right: 8px">
+<img align="left" src="./imgs/skills/postgresql.png" alt=" Logo" height="30" style="padding-right: 8px">
+<img align="left" src="./imgs/skills/react.png" alt=" Logo" height="30" style="padding-right: 8px">
+<img align="left" src="./imgs/skills/redux.png" alt=" Logo" height="30" style="padding-right: 8px">
+<img align="left" src="./imgs/skills/sass.png" alt=" Logo" height="30" style="padding-right: 8px">
+<img align="left" src="./imgs/skills/social.png" alt=" Logo" height="30" style="padding-right: 8px">
+<img align="left" src="./imgs/skills/stripe.png" alt=" Logo" height="30" style="padding-right: 8px">
+<img align="left" src="./imgs/skills/tailwind-css.png" alt=" Logo" height="30" style="padding-right: 8px">
+
 <br/>
+
 ---
 
 <div align="center">
