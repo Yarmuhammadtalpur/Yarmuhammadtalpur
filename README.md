@@ -27,7 +27,7 @@
 <img align="left" src="./imgs/skills/next.png" alt="NextJs Logo" height="30px" style="padding-right: 8px;padding-top: 10px;">
 <img align="left" src="./imgs/skills/nodejs.png" alt="NodeJs Logo" height="30px" style="padding-right: 8px;padding-top: 10px;">
 <img align="left" src="./imgs/skills/postgresql.png" alt="Postgresql Logo" height="30px" style="padding-right: 8px;padding-top: 10px;">
-<img align="left" src="./imgs/skills/react.png" alt="React Logo" height="30px" style="padding-right: 8px;padding-top: 10px;">
+<img align="left" src="./imgs/skills/ReactJs.png" alt="React Logo" height="30px" style="padding-right: 8px;padding-top: 10px;">
 <img align="left" src="./imgs/skills/redux.png" alt="Redux Logo" height="30px" style="padding-right: 8px;padding-top: 10px;">
 <img align="left" src="./imgs/skills/sass.png" alt="SASS Logo" height="30px" style="padding-right: 8px;padding-top: 10px;">
 <img align="left" src="./imgs/skills/social.png" alt="Git Version Control Logo" height="30px" style="padding-right: 8px;padding-top: 10px;">
