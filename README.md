@@ -33,7 +33,7 @@
 <img src="./imgs/skills/social.png" alt=" Logo" height="30" style="padding-right: 8px">
 <img src="./imgs/skills/stripe.png" alt=" Logo" height="30" style="padding-right: 8px">
 <img src="./imgs/skills/tailwind-css.png" alt=" Logo" height="30" style="padding-right: 8px">
-
+<br/>
 ---
 
 <div align="center">
