@@ -36,8 +36,6 @@
 
 <br/>
 
----
-
 <div align="center">
 
 [![Commit Stats](https://github-readme-activity-graph.vercel.app/graph?username=Yarmuhammadtalpur&theme=github&days=14)](https://github.com/Yarmuhammadtalpur#gh-light-mode-only)
