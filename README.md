@@ -34,6 +34,8 @@
 <img align="left" src="./imgs/skills/stripe.png" alt="Stripe Payment Logo" height="30px" style="padding-right: 8px; margin-top: 10px;">
 <img align="left" src="./imgs/skills/tailwind-css.png" alt="Tailwind Css Logo" height="30px" style="padding-right: 8px; margin-top: 10px;">
 
+#
+
 <br/>
 
 <div align="center">
