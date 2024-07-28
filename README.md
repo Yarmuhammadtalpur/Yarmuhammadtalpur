@@ -10,29 +10,29 @@
 
 ### 🛠️ Languages and Tools
 
-<img align="left" src="./imgs/skills/AWS.png" alt="AWS Cloud Logo" width="30px" style="padding-right: 8px; padding-top: 5px">
-<img align="left" src="./imgs/skills/docker.png" alt="Docker Logo" width="30px" style="padding-right: 8px; padding-top: 5px">
-<img align="left" src="./imgs/skills/chakra ui.png" alt="Chackra UI Logo" width="30px" style="padding-right: 8px; padding-top: 5px">
-<img align="left" src="./imgs/skills/mui.png" alt="MUI Logo" width="30px" style="padding-right: 8px; padding-top: 5px">
-<img align="left" src="./imgs/skills/bootstrap.png" alt="Bootstrap Logo" width="30px" style="padding-right: 8px; padding-top: 5px">
-<img align="left" src="./imgs/skills/css-3.png" alt="CSS Logo" width="30px" style="padding-right: 8px; padding-top: 5px">
-<img align="left" src="./imgs/skills/html.png" alt="HTML Logo" width="30px" style="padding-right: 8px; padding-top: 5px">
-<img align="left" src="./imgs/skills/firebase.png" alt="Firebase Logo" width="30px" style="padding-right: 8px; padding-top: 5px">
-<img align="left" src="./imgs/skills/graphql.png" alt="Graphql Logo" width="30px" style="padding-right: 8px; padding-top: 5px">
-<img align="left" src="./imgs/skills/js.png" alt="Javascript Logo" width="30px" style="padding-right: 8px; padding-top: 5px">
-<img align="left" src="./imgs/skills/typescript.png" alt="Typescript Logo" width="30px" style="padding-right: 8px; padding-top: 5px">
-<img align="left" src="./imgs/skills/mongodb.png" alt="Mongodb Logo" width="30px" style="padding-right: 8px; padding-top: 5px">
-<img align="left" src="./imgs/skills/mysql.png" alt="Mysql Logo" width="30px" style="padding-right: 8px; padding-top: 5px">
-<img align="left" src="./imgs/skills/Nest.js.png" alt="NestJs Logo" width="30px" style="padding-right: 8px; padding-top: 5px">
-<img align="left" src="./imgs/skills/next.png" alt="NextJs Logo" width="30px" style="padding-right: 8px; padding-top: 5px">
-<img align="left" src="./imgs/skills/nodejs.png" alt="NodeJs Logo" width="30px" style="padding-right: 8px; padding-top: 5px">
-<img align="left" src="./imgs/skills/postgresql.png" alt="Postgresql Logo" width="30px" style="padding-right: 8px; padding-top: 5px">
-<img align="left" src="./imgs/skills/react.png" alt="React Logo" width="30px" style="padding-right: 8px; padding-top: 5px">
-<img align="left" src="./imgs/skills/redux.png" alt="Redux Logo" width="30px" style="padding-right: 8px; padding-top: 5px">
-<img align="left" src="./imgs/skills/sass.png" alt="SASS Logo" width="30px" style="padding-right: 8px; padding-top: 5px">
-<img align="left" src="./imgs/skills/social.png" alt="Git Version Control Logo" width="30px" style="padding-right: 8px; padding-top: 5px">
-<img align="left" src="./imgs/skills/stripe.png" alt="Stripe Payment Logo" width="30px" style="padding-right: 8px; padding-top: 5px">
-<img align="left" src="./imgs/skills/tailwind-css.png" alt="Tailwind Css Logo" width="30px" style="padding-right: 8px; padding-top: 5px">
+<img align="left" src="./imgs/skills/AWS.png" alt="AWS Cloud Logo" height="30px" style="padding-right: 8px; padding-top: 5px">
+<img align="left" src="./imgs/skills/docker.png" alt="Docker Logo" height="30px" style="padding-right: 8px; padding-top: 5px">
+<img align="left" src="./imgs/skills/chakra ui.png" alt="Chackra UI Logo" height="30px" style="padding-right: 8px; padding-top: 5px">
+<img align="left" src="./imgs/skills/mui.png" alt="MUI Logo" height="30px" style="padding-right: 8px; padding-top: 5px">
+<img align="left" src="./imgs/skills/bootstrap.png" alt="Bootstrap Logo" height="30px" style="padding-right: 8px; padding-top: 5px">
+<img align="left" src="./imgs/skills/css-3.png" alt="CSS Logo" height="30px" style="padding-right: 8px; padding-top: 5px">
+<img align="left" src="./imgs/skills/html.png" alt="HTML Logo" height="30px" style="padding-right: 8px; padding-top: 5px">
+<img align="left" src="./imgs/skills/firebase.png" alt="Firebase Logo" height="30px" style="padding-right: 8px; padding-top: 5px">
+<img align="left" src="./imgs/skills/graphql.png" alt="Graphql Logo" height="30px" style="padding-right: 8px; padding-top: 5px">
+<img align="left" src="./imgs/skills/js.png" alt="Javascript Logo" height="30px" style="padding-right: 8px; padding-top: 5px">
+<img align="left" src="./imgs/skills/typescript.png" alt="Typescript Logo" height="30px" style="padding-right: 8px; padding-top: 5px">
+<img align="left" src="./imgs/skills/mongodb.png" alt="Mongodb Logo" height="30px" style="padding-right: 8px; padding-top: 5px">
+<img align="left" src="./imgs/skills/mysql.png" alt="Mysql Logo" height="30px" style="padding-right: 8px; padding-top: 5px">
+<img align="left" src="./imgs/skills/Nest.js.png" alt="NestJs Logo" height="30px" style="padding-right: 8px; padding-top: 5px">
+<img align="left" src="./imgs/skills/next.png" alt="NextJs Logo" height="30px" style="padding-right: 8px; padding-top: 5px">
+<img align="left" src="./imgs/skills/nodejs.png" alt="NodeJs Logo" height="30px" style="padding-right: 8px; padding-top: 5px">
+<img align="left" src="./imgs/skills/postgresql.png" alt="Postgresql Logo" height="30px" style="padding-right: 8px; padding-top: 5px">
+<img align="left" src="./imgs/skills/react.png" alt="React Logo" height="30px" style="padding-right: 8px; padding-top: 5px">
+<img align="left" src="./imgs/skills/redux.png" alt="Redux Logo" height="30px" style="padding-right: 8px; padding-top: 5px">
+<img align="left" src="./imgs/skills/sass.png" alt="SASS Logo" height="30px" style="padding-right: 8px; padding-top: 5px">
+<img align="left" src="./imgs/skills/social.png" alt="Git Version Control Logo" height="30px" style="padding-right: 8px; padding-top: 5px">
+<img align="left" src="./imgs/skills/stripe.png" alt="Stripe Payment Logo" height="30px" style="padding-right: 8px; padding-top: 5px">
+<img align="left" src="./imgs/skills/tailwind-css.png" alt="Tailwind Css Logo" height="30px" style="padding-right: 8px; padding-top: 5px">
 
 <br/>
 
