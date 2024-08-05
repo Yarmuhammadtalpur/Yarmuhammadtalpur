@@ -1,4 +1,4 @@
-## 🤖 Mir Yar Muhammad
+## 👨🏼‍🚀 Mir Yar Muhammad
 
 **`🧑🏻‍💻Full Stack Web Developer / 🎬Content Creater`**
 
