@@ -1,4 +1,4 @@
-## 👨🏼‍🚀 Mir Yar Muhammad
+# Hi <img src="./imgs/wave.gif" alt="Waving hand animated" height="45" width="45" /> My name is Mir Yar Muhammad👨🏼‍🚀
 
 **`🧑🏻‍💻Full Stack Web Developer / 🎬Content Creater`**
 
@@ -38,6 +38,8 @@ Contact 📧: <a href="mailto:miryarmt.business@gmail.com">miryarmt.business@gma
  <img  src="./imgs/skills/tailwind-css.png" alt="Tailwind Css Logo" height="30px" style="padding-right: 8px;padding-top: 10px;">
 </p>
 <br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
 #
 
