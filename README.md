@@ -53,4 +53,6 @@ Contact 📧: <a href="mailto:miryarmt.business@gmail.com">miryarmt.business@gma
 
 ## </div>
 
- <img  src="./imgs/actionpack.gif" style="padding-right: 8px;padding-top: 10px;">
+<p align="left"> 
+ <img  src="./imgs/actionpack.gif" >
+</p>
