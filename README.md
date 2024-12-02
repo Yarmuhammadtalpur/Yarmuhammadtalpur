@@ -21,6 +21,12 @@ Contact 📧: <a href="mailto:miryarmt.business@gmail.com">miryarmt.business@gma
  <img  src="./imgs/skills/css-3.png" alt="CSS Logo" height="30px" style="padding-right: 8px;padding-top: 10px;">
  <img  src="./imgs/skills/html.png" alt="HTML Logo" height="30px" style="padding-right: 8px;padding-top: 10px;">
  <img  src="./imgs/skills/firebase.png" alt="Firebase Logo" height="30px" style="padding-right: 8px;padding-top: 10px;">
+<img  src="./imgs/skills/shopify.png" alt="Shopify Logo" height="30px" style="padding-right: 8px;padding-top: 10px;">
+<img  src="./imgs/skills/wordpress.png" alt="Wordpress Logo" height="30px" style="padding-right: 8px;padding-top: 10px;">
+<img  src="./imgs/skills/woocommerce.png" alt="Woocommerce Wordpress Logo" height="30px" style="padding-right: 8px;padding-top: 10px;">
+<img  src="./imgs/skills/android.png" alt="Android APPs Logo" height="30px" style="padding-right: 8px;padding-top: 10px;">
+<img  src="./imgs/skills/apple.png" alt="Apple IOS APPS Logo" height="30px" style="padding-right: 8px;padding-top: 10px;">
+  
  <img  src="./imgs/skills/graphql.png" alt="Graphql Logo" height="30px" style="padding-right: 8px;padding-top: 10px;">
  <img  src="./imgs/skills/js.png" alt="Javascript Logo" height="30px" style="padding-right: 8px;padding-top: 10px;">
  <img  src="./imgs/skills/typescript.png" alt="Typescript Logo" height="30px" style="padding-right: 8px;padding-top: 10px;">
