@@ -52,7 +52,3 @@ Contact 📧: <a href="mailto:miryarmt.business@gmail.com">miryarmt.business@gma
 [![Commit Stats](https://github-readme-activity-graph.vercel.app/graph?username=Yarmuhammadtalpur&theme=react-dark&days=14)](https://github.com/Yarmuhammadtalpur#gh-dark-mode-only)
 
 ## </div>
-
-<p align="left"> 
- <img style="width: 100%"  src="./imgs/pixelart.gif" >
-</p>
