@@ -13,36 +13,63 @@ Contact 📧: <a href="mailto:miryarmt.business@gmail.com">miryarmt.business@gma
 ### 🛠️ Languages and Tools
 
 <p align="left"> 
- <img  src="./imgs/skills/AWS.png" alt="AWS Cloud Logo" height="30px" style="padding-right: 8px;padding-top: 10px;">
- <img  src="./imgs/skills/docker.png" alt="Docker Logo" height="30px" style="padding-right: 8px;padding-top: 10px;">
- <img  src="./imgs/skills/chakra ui.png" alt="Chackra UI Logo" height="30px" style="padding-right: 8px;padding-top: 10px;">
- <img  src="./imgs/skills/mui.png" alt="MUI Logo" height="30px" style="padding-right: 8px;padding-top: 10px;">
- <img  src="./imgs/skills/bootstrap.png" alt="Bootstrap Logo" height="30px" style="padding-right: 8px;padding-top: 10px;">
- <img  src="./imgs/skills/css-3.png" alt="CSS Logo" height="30px" style="padding-right: 8px;padding-top: 10px;">
- <img  src="./imgs/skills/html.png" alt="HTML Logo" height="30px" style="padding-right: 8px;padding-top: 10px;">
- <img  src="./imgs/skills/firebase.png" alt="Firebase Logo" height="30px" style="padding-right: 8px;padding-top: 10px;">
+<img  src="./imgs/skills/AWS.png" alt="AWS Cloud Logo" height="30px" style="padding-right: 8px;padding-top: 10px;">
+<img  src="./imgs/skills/docker.png" alt="Docker Logo" height="30px" style="padding-right: 8px;padding-top: 10px;">
+<img  src="./imgs/skills/chakra ui.png" alt="Chackra UI Logo" height="30px" style="padding-right: 8px;padding-top: 10px;">
+<img  src="./imgs/skills/mui.png" alt="MUI Logo" height="30px" style="padding-right: 8px;padding-top: 10px;">
+<img  src="./imgs/skills/bootstrap.png" alt="Bootstrap Logo" height="30px" style="padding-right: 8px;padding-top: 10px;">
+<img  src="./imgs/skills/css-3.png" alt="CSS Logo" height="30px" style="padding-right: 8px;padding-top: 10px;">
+<img  src="./imgs/skills/html.png" alt="HTML Logo" height="30px" style="padding-right: 8px;padding-top: 10px;">
+<img  src="./imgs/skills/firebase.png" alt="Firebase Logo" height="30px" style="padding-right: 8px;padding-top: 10px;">
 <img  src="./imgs/skills/shopify.png" alt="Shopify Logo" height="30px" style="padding-right: 8px;padding-top: 10px;">
 <img  src="./imgs/skills/wordpress.png" alt="Wordpress Logo" height="30px" style="padding-right: 8px;padding-top: 10px;">
 <img  src="./imgs/skills/woocommerce.png" alt="Woocommerce Wordpress Logo" height="30px" style="padding-right: 8px;padding-top: 10px;">
 <img  src="./imgs/skills/android.png" alt="Android APPs Logo" height="30px" style="padding-right: 8px;padding-top: 10px;">
 <img  src="./imgs/skills/apple.png" alt="Apple IOS APPS Logo" height="30px" style="padding-right: 8px;padding-top: 10px;">
-  
- <img  src="./imgs/skills/graphql.png" alt="Graphql Logo" height="30px" style="padding-right: 8px;padding-top: 10px;">
- <img  src="./imgs/skills/js.png" alt="Javascript Logo" height="30px" style="padding-right: 8px;padding-top: 10px;">
- <img  src="./imgs/skills/typescript.png" alt="Typescript Logo" height="30px" style="padding-right: 8px;padding-top: 10px;">
- <img  src="./imgs/skills/mongodb.png" alt="Mongodb Logo" height="30px" style="padding-right: 8px;padding-top: 10px;">
- <img  src="./imgs/skills/mysql.png" alt="Mysql Logo" height="30px" style="padding-right: 8px;padding-top: 10px;">
- <img  src="./imgs/skills/Nest.js.png" alt="NestJs Logo" height="30px" style="padding-right: 8px;padding-top: 10px;">
- <img  src="./imgs/skills/next.png" alt="NextJs Logo" height="30px" style="padding-right: 8px;padding-top: 10px;">
- <img  src="./imgs/skills/nodejs.png" alt="NodeJs Logo" height="30px" style="padding-right: 8px;padding-top: 10px;">
- <img  src="./imgs/skills/postgresql.png" alt="Postgresql Logo" height="30px" style="padding-right: 8px;padding-top: 10px;">
- <img  src="./imgs/skills/ReactJs.png" alt="React Logo" height="30px" style="padding-right: 8px;padding-top: 10px;">
- <img  src="./imgs/skills/redux.png" alt="Redux Logo" height="30px" style="padding-right: 8px;padding-top: 10px;">
- <img  src="./imgs/skills/sass.png" alt="SASS Logo" height="30px" style="padding-right: 8px;padding-top: 10px;">
- <img  src="./imgs/skills/social.png" alt="Git Version Control Logo" height="30px" style="padding-right: 8px;padding-top: 10px;">
- <img  src="./imgs/skills/stripe.png" alt="Stripe Payment Logo" height="30px" style="padding-right: 8px;padding-top: 10px;">
- <img  src="./imgs/skills/tailwind-css.png" alt="Tailwind Css Logo" height="30px" style="padding-right: 8px;padding-top: 10px;">
+<img  src="./imgs/skills/graphql.png" alt="Graphql Logo" height="30px" style="padding-right: 8px;padding-top: 10px;">
+<img  src="./imgs/skills/js.png" alt="Javascript Logo" height="30px" style="padding-right: 8px;padding-top: 10px;">
+<img  src="./imgs/skills/typescript.png" alt="Typescript Logo" height="30px" style="padding-right: 8px;padding-top: 10px;">
+<img  src="./imgs/skills/mongodb.png" alt="Mongodb Logo" height="30px" style="padding-right: 8px;padding-top: 10px;">
+<img  src="./imgs/skills/mysql.png" alt="Mysql Logo" height="30px" style="padding-right: 8px;padding-top: 10px;">
+<img  src="./imgs/skills/Nest.js.png" alt="NestJs Logo" height="30px" style="padding-right: 8px;padding-top: 10px;">
+<img  src="./imgs/skills/next.png" alt="NextJs Logo" height="30px" style="padding-right: 8px;padding-top: 10px;">
+<img  src="./imgs/skills/nodejs.png" alt="NodeJs Logo" height="30px" style="padding-right: 8px;padding-top: 10px;">
+<img  src="./imgs/skills/postgresql.png" alt="Postgresql Logo" height="30px" style="padding-right: 8px;padding-top: 10px;">
+<img  src="./imgs/skills/ReactJs.png" alt="React Logo" height="30px" style="padding-right: 8px;padding-top: 10px;">
+<img  src="./imgs/skills/redux.png" alt="Redux Logo" height="30px" style="padding-right: 8px;padding-top: 10px;">
+<img  src="./imgs/skills/sass.png" alt="SASS Logo" height="30px" style="padding-right: 8px;padding-top: 10px;">
+<img  src="./imgs/skills/social.png" alt="Git Version Control Logo" height="30px" style="padding-right: 8px;padding-top: 10px;">
+<img  src="./imgs/skills/stripe.png" alt="Stripe Payment Logo" height="30px" style="padding-right: 8px;padding-top: 10px;">
+<img  src="./imgs/skills/tailwind-css.png" alt="Tailwind Css Logo" height="30px" style="padding-right: 8px;padding-top: 10px;">
 </p>
+<div align="left">
+
+### 🌐 Web Development
+
+- **Front-End**: React, Next.js, Three.js, HTML, CSS, Chakra UI, Tailwind, Shadcn, MUI, Ant Design, JavaScript
+- **Back-End**: Node.js, Express, REST APIs, GraphQL
+
+### 📦 Databases
+
+- MongoDB, MySQL, Postgresql, Firebase
+
+### ☁️ Cloud & DevOps
+
+- AWS, Docker, Nginx, Cpanel
+
+### 📱 Mobile Apps
+
+- React Native
+
+### 🛠️ CMS & E-commerce
+
+- WordPress (Themes & Plugins), Shopify
+
+### ⚡ Other Tools
+
+- Git/GitHub, Postman, Webpack, VS Code
+
+</div>
 <br/>
 
 <p align="left"> 
